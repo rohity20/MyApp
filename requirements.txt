@@ -1,0 +1,10 @@
+Pillow # PIL
+opencv-python
+torch
+torchvision
+numpy
+tqdm
+pandas
+matplotlib
+easyocr
+filterpy
